@@ -1,9 +1,9 @@
-# 👋 ¡Hola! Soy [Fernando Durán]
+# 👋 ¡Hola! Soy Fernando Durán
 
 ## 🚀 Sobre mí
 
-🎓 Estudiante de [Grado Superior de ASIR] con interés en [Redes, Bases de Datos, Lenguaje de Marcas, etc.].  
-💡 Actualmente estoy aprendiendo [Linux, Packet Tracer, Oracle, SQL, XML y mucho más].  
+🎓 Estudiante de Grado Superior de ASIR (Administrador de Sistemas en Red) con interés en Redes, Bases de Datos, Lenguaje de Marcas, etc..  
+💡 Actualmente estoy aprendiendo Linux, Packet Tracer, Oracle, SQL, XML y mucho más.  
 📌 Me apasiona la tecnología y siempre estoy explorando nuevas herramientas y metodologías.
 
 ## 🛠️ Tecnologías y herramientas
@@ -22,7 +22,7 @@
 
 ## 📫 Contacto
 
-📧 Email: [ferdurave@gmail.com]  
+📧 Email: ferdurave@gmail.com  
 💼 LinkedIn: [Fernando Durán](https://www.linkedin.com/in/duran-fernando/)  
 🚀 GitHub: [Nando-Asir](https://github.com/Nando-Asir)
 
