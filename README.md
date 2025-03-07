@@ -15,16 +15,16 @@
 ![Draw.io](https://img.shields.io/badge/Draw.io-FF9900?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge&logo=xml&logoColor=white)
 
-## 📂 Proyectos Destacados
+## 📂 Repositorios Destacados
 
 - 🔗 [Sostenibilidad](https://github.com/Nando-Asir?tab=repositories) - Repositorios sobre el Desarrollo Sostenible y la Sostenibilidad.
 - 🔗 [Cisco](https://github.com/Nando-Asir/ConfiguracionCISCO) - Configuración de dispositivos Cisco en Packet Tracer.
 
 ## 📫 Contacto
 
-📧 [Email](ferdurave@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/duran-fernando/)  
-🚀 [GitHub](https://github.com/Nando-Asir)
+### 📧 [Email](ferdurave@gmail.com)  
+### 💼 [LinkedIn](https://www.linkedin.com/in/duran-fernando/)  
+### 🚀 [GitHub](https://github.com/Nando-Asir)
 
 
 ---
