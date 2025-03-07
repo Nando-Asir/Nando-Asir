@@ -22,9 +22,9 @@
 
 ## 📫 Contacto
 
-### 📧 [Email](ferdurave@gmail.com)  
-### 💼 [LinkedIn](https://www.linkedin.com/in/duran-fernando/)  
-### 🚀 [GitHub](https://github.com/Nando-Asir)
+#### 📧 [Email](ferdurave@gmail.com)  
+#### 💼 [LinkedIn](https://www.linkedin.com/in/duran-fernando/)  
+#### 🚀 [GitHub](https://github.com/Nando-Asir)
 
 
 ---
