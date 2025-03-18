@@ -25,7 +25,7 @@
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nando-Asir&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nando-Asir&theme=github_dark)
 
 ## 📫 Contacto
 
