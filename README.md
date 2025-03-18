@@ -2,9 +2,9 @@
 
 ## 🚀 Sobre mí
 
-🎓 Estudiante de Grado Superior de ASIR (Administrador de Sistemas en Red) con un fuerte interés en Redes, Bases de Datos, Lenguaje de Marcas y la administración de sistemas.
+🎓 Estudiante de Grado Superior de ASIR (Administrador de Sistemas Informáticos en Red) con un fuerte interés en Redes, Bases de Datos, Lenguaje de Marcas y la Administración de Sistemas Linux o Windows.
 💡 Actualmente estoy profundizando mis conocimientos en Linux, Packet Tracer, Oracle, SQL, XML, y explorando tecnologías como la virtualización y la automatización.
-📌 Me apasiona la tecnología y estoy comprometido con el aprendizaje continuo y la aplicación de soluciones innovadoras.  Busco oportunidades para colaborar en proyectos desafiantes y contribuir a la comunidad open source.
+📌 Me apasiona la tecnología y estoy comprometido con el aprendizaje continuo y la aplicación de soluciones innovadoras. Busco oportunidades para colaborar en proyectos desafiantes y contribuir a la comunidad open source.
 
 ## 🛠️ Tecnologías y Herramientas
 
