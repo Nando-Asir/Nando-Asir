@@ -19,9 +19,8 @@
 
 ## 📂 Repositorios Destacados
 
-- 🔗 [Sostenibilidad](https://github.com/Nando-Asir?tab=repositories) - Repositorios sobre el Desarrollo Sostenible y la Sostenibilidad.
+[![Cisco](https://github-readme-stats.vercel.app/api/pin/?username=Nando-Asir&repo=github-readme-stats)](https://github.com/Nando-Asir/ConfiguracionCISCO)
 - 🔗 [Cisco](https://github.com/Nando-Asir/ConfiguracionCISCO) - Configuración de dispositivos Cisco en Packet Tracer.
-- 🔗 [Próximos Proyectos](https://github.com/Nando-Asir) -  (Añade aquí enlaces a proyectos en los que estés trabajando o planeando)
 
 ## 📊 Estadísticas de GitHub
 
