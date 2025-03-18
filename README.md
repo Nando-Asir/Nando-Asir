@@ -19,7 +19,7 @@
 
 ## 📂 Repositorios Destacados
 
-[![Cisco](https://github-readme-stats.vercel.app/api/pin/?username=Nando-Asir&repo=github-readme-stats)](https://github.com/Nando-Asir/ConfiguracionCISCO)
+[![Cisco](https://github-readme-stats.vercel.app/api/pin/?username=Nando-Asir&repo=ConfiguracionCISCO)](https://github.com/Nando-Asir/ConfiguracionCISCO)
 - 🔗 [Cisco](https://github.com/Nando-Asir/ConfiguracionCISCO) - Configuración de dispositivos Cisco en Packet Tracer.
 
 ## 📊 Estadísticas de GitHub
