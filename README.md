@@ -25,8 +25,7 @@
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://readme-spanish.herokuapp.com/api?username=Nando-Asir&theme=radical)
-![Top Langs](https://readme-spanish.herokuapp.com/api/top-langs/?username=Nando-Asir&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nando-Asir&theme=radical)
 
 ## 📫 Contacto
 
