@@ -20,6 +20,7 @@
 ## 📂 Repositorios Destacados
 
 [![Cisco](https://github-readme-stats.vercel.app/api/pin/?username=Nando-Asir&repo=ConfiguracionCISCO&theme=github_dark)](https://github.com/Nando-Asir/ConfiguracionCISCO)
+[![Teclados](https://github-readme-stats.vercel.app/api/pin/?username=Nando-Asir&repo=FHW-Teclados&theme=github_dark)](https://github.com/Nando-Asir/FHW-Teclados)
 
 ## 📊 Estadísticas de GitHub
 
