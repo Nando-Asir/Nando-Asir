@@ -97,10 +97,10 @@ Guía de cómo instalar y usar Docker en Debian o Ubuntu de forma sencilla.
 
 ## ✨ Datos Curiosos
 
-- 🧠 **Siempre aprendiendo**: Dedico al menos 2 horas diarias al aprendizaje continuo
-- 🏆 **Objetivo**: Convertirme en un especialista en **DevOps** y **Cloud Computing**
-- 🎮 **Hobbie**: Gaming y entrenar IA's para distintos proyectos
-- ☕ **Fuel**: Café y buena música para las sesiones de código nocturnas
+- 🧠 **Siempre aprendiendo**: Dedico al menos 2 horas diarias al aprendizaje continuo.
+- 🏆 **Objetivo**: Convertirme en un especialista en **DevOps** y **Cloud Computing**.
+- 🎮 **Hobbie**: Gaming y entrenar IA's para distintos proyectos.
+- ☕ **Fuel**: Café y buena música para las sesiones de código nocturnas.
 
 ---
 
