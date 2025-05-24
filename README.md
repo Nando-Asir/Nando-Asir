@@ -55,6 +55,7 @@
 
 [![Configuración CISCO](https://github-readme-stats.vercel.app/api/pin/?username=Nando-Asir&repo=ConfiguracionCISCO&theme=tokyonight&border_color=2e9ef7)](https://github.com/Nando-Asir/ConfiguracionCISCO)
 [![FHW Teclados](https://github-readme-stats.vercel.app/api/pin/?username=Nando-Asir&repo=FHW-Teclados&theme=tokyonight&border_color=2e9ef7)](https://github.com/Nando-Asir/FHW-Teclados)
+[![Docker](https://github-readme-stats.vercel.app/api/pin/?username=Nando-Asir&repo=Docker&theme=tokyonight&border_color=2e9ef7)](https://github.com/Nando-Asir/Docker)
 
 </div>
 
@@ -63,6 +64,9 @@ Repositorio con configuraciones y prácticas de redes Cisco utilizando Packet Tr
 
 ### ⌨️ **FHW-Teclados**
 Proyecto de hardware centrado en configuración y personalización de teclados mecánicos, incluyendo layouts y macros personalizados.
+
+### 🐋 **Docker**
+Guía de cómo instalar y usar Docker en Debian o Ubuntu de forma sencilla.
 
 ## 📊 Estadísticas de GitHub
 
@@ -95,7 +99,7 @@ Proyecto de hardware centrado en configuración y personalización de teclados m
 
 - 🧠 **Siempre aprendiendo**: Dedico al menos 2 horas diarias al aprendizaje continuo
 - 🏆 **Objetivo**: Convertirme en un especialista en **DevOps** y **Cloud Computing**
-- 🎮 **Hobbie**: Gaming y construcción de PCs personalizados
+- 🎮 **Hobbie**: Gaming y entrenar IA's para distintos proyectos
 - ☕ **Fuel**: Café y buena música para las sesiones de código nocturnas
 
 ---
