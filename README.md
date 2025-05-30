@@ -22,7 +22,7 @@ fernando@universe:~$ cat about.me
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 ```yaml
 name: "Fernando Durán"
