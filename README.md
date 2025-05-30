@@ -140,7 +140,7 @@ status: "Graduating May 2026 🎓"
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
