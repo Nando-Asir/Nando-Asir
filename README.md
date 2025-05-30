@@ -4,7 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Fernando+Dur%C3%A1n;Systems+Administrator+%7C+DevOps+Enthusiast;Turning+Infrastructure+into+Art" alt="Typing SVG" />
 
-</br>
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=&fontSize=0&animation=twinkling"/>
 
 </div>
