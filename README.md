@@ -1,164 +1,290 @@
-# Hi there! 👋 I'm Fernando Durán
-
 <div align="center">
 
-### 🚀 Network Systems Administration Technician | IT Infrastructure Specialist | Automation Enthusiast
+# 🌟 Welcome to My Digital Universe
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-duran)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nando.dev.duran@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nando-Asir)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Fernando+Dur%C3%A1n;Systems+Administrator+%7C+DevOps+Enthusiast;Turning+Infrastructure+into+Art" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nando-Asir&color=brightgreen&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=&fontSize=0&animation=twinkling"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-I'm a passionate **Network Systems Administration** student and IT professional from Seville, Spain, graduating in **May 2026**. Currently gaining hands-on experience in **digitalization technologies**, **AI implementation**, and **process automation** at the University of Seville.
+### `whoami`
 
-- 🎓 **Studying**: Network Systems Administration (CFGS ASIR)
-- 🔭 **Currently working on**: OCR & AI document processing systems
-- 🌱 **Learning**: Advanced virtualization, cloud technologies, and cybersecurity
-- 💡 **Passionate about**: System automation, infrastructure optimization, and emerging technologies
-- 📍 **Location**: San Juan de Aznalfarache, Seville, Spain
-- 🎯 **Goal**: Becoming a expert Systems Administrator and Infrastructure Architect
+```bash
+fernando@universe:~$ cat about.me
+```
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+```yaml
+name: "Fernando Durán"
+role: "Network Systems Administrator"
+code: ["Bash", "PowerShell", "Python", "HTML/CSS"]
+focus: "Infrastructure Automation & AI Integration"
+location: "San Juan de Aznalfarache, Sevilla 🇪🇸"
+currently_learning: ["Kubernetes", "Terraform", "AWS"]
+status: "Graduating May 2026 🎓"
+```
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nando-Asir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+<div align="center">
 
-### 💻 Operating Systems & Administration
+## 🚀 `./current_mission.sh`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Digitizing+the+future+at+University+of+Sevilla;Implementing+AI+%2B+OCR+technologies;Building+automated+infrastructure+solutions;Exploring+the+boundaries+of+tech" alt="Current Mission" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Tech Arsenal
+
+<details>
+<summary>🖥️ <b>Systems & Infrastructure</b></summary>
+<br>
+
+<div align="center">
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### ☁️ Virtualization & Cloud
+</div>
+</details>
+
+<details>
+<summary>☁️ <b>Cloud & Virtualization</b></summary>
+<br>
+
+<div align="center">
+
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🌐 Networking & Security
+</div>
+</details>
+
+<details>
+<summary>🌐 <b>Networking & Security</b></summary>
+<br>
+
+<div align="center">
+
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-326CE5?style=for-the-badge&logo=google-cloud&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-FF6B35?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-4CAF50?style=for-the-badge&logo=openvpn&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 
-### 🗄️ Databases & Data Management
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+</div>
+</details>
 
-### 💻 Programming & Scripting
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
-### 🤖 AI & Automation
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR%20Technology-2196F3?style=for-the-badge&logo=google&logoColor=white)
-![Process Automation](https://img.shields.io/badge/Process%20Automation-4CAF50?style=for-the-badge&logo=autohotkey&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
+<details>
+<summary>🤖 <b>AI & Automation</b></summary>
+<br>
 
 <div align="center">
 
-![Nando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nando-Asir&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nando-Asir&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nando-Asir&theme=radical&hide_border=true)
+</div>
+</details>
 
 </div>
 
 ---
 
-## 🚀 Current Projects & Interests
+<div align="center">
 
-- 🔧 **Infrastructure Automation**: Developing scripts for system deployment and configuration
-- 📄 **Document Processing**: AI-powered OCR systems for automated document digitalization
-- 🌐 **Web Development**: Creating modern web applications with responsive design
-- 🎮 **Discord Bot Management**: Server administration and user permission systems
-- 📡 **Network Configuration**: Cisco router and switch setup optimization
-- 🔒 **Cybersecurity**: Exploring network security and vulnerability assessment
+## 📊 System Analytics
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nando-Asir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nando-Asir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
 
-## 💼 Professional Experience Highlights
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nando-Asir&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
 
-- 🏛️ **University of Sevilla**: Digitalization & Data Management Technician (2025)
-- 🤖 **AI Implementation**: OCR technologies and intelligent document processing
-- 📊 **System Analytics**: Performance monitoring and statistical reporting
-- 👥 **Team Leadership**: Remote collaboration and project coordination
-- 🛠️ **Technical Support**: Multi-level incident resolution and customer service
-- 📈 **Process Optimization**: Workflow automation and efficiency improvements
+</div>
 
 ---
 
-## 🎯 What I'm Learning
+<div align="center">
 
-```yaml
-Currently Focusing On:
-  - Advanced Linux Administration
-  - Docker & Container Orchestration
-  - Cloud Infrastructure (AWS/Azure)
-  - Network Security & Monitoring
-  - Infrastructure as Code (IaC)
-  - Kubernetes Fundamentals
+## 🎯 Current Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Document Processor
+```python
+# OCR + AI for automated digitalization
+class DocumentProcessor:
+    def __init__(self):
+        self.ai_engine = "TensorFlow"
+        self.ocr_tech = "Advanced OCR"
+        self.status = "In Production 🚀"
+    
+    def process_documents(self):
+        return "Converting chaos to order"
 ```
 
+</td>
+<td width="50%">
+
+### 🏗️ Infrastructure as Code
+```yaml
+# Automated server deployment
+infrastructure:
+  platform: "Proxmox + VMware"
+  automation: "Ansible playbooks"
+  monitoring: "Grafana + Prometheus"
+  status: "Scaling up 📈"
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎮 Discord Infrastructure
+```bash
+# Server management & automation
+./discord_manager.sh
+├── User permissions ✅
+├── Bot deployment ✅  
+├── Channel automation ✅
+└── Analytics dashboard 📊
+```
+
+</td>
+<td width="50%">
+
+### 🌐 Modern Web Apps
+```html
+<!-- Next-gen web development -->
+<project name="portfolio">
+  <tech>HTML5 + CSS3 + JS</tech>
+  <design>Responsive + Modern</design>
+  <status>Always evolving 🔄</status>
+</project>
+```
+
+</td>
+</tr>
+</table>
+
 ---
-
-## 📈 Activity Graph
-
-[![Nando's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nando-Asir&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🎓 **Network Systems Administration** (In Progress - 2026)
-- 🤖 **AI & OCR Technologies** Implementation
-- 🔧 **Cisco Network Configuration** Specialist
-- 💻 **Virtualization Systems** Expert (VMware, Proxmox)
-- 🛠️ **Remote Technical Support** Professional
-
----
-
-## 📞 Let's Connect!
 
 <div align="center">
 
-I'm always open to interesting conversations and collaboration opportunities!
+## 🏆 Achievement Unlocked
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-duran)
-[![Email](https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nando.dev.duran@gmail.com)
-
-**"Turning complex IT challenges into automated solutions"** 💡
-
----
-
-⭐ **Feel free to explore my repositories and don't forget to star the ones you find interesting!** ⭐
+<img src="https://github-profile-trophy.vercel.app/?username=Nando-Asir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+## 💡 Terminal Session
+
+```bash
+fernando@systems:~$ ./career_highlights.sh
+
+[INFO] University of Sevilla - AI & Digitalization Specialist
+[SUCCESS] Implemented OCR + AI processing pipeline
+[INFO] Remote team coordination - 100% SLA compliance
+[SUCCESS] Process automation - 300% efficiency increase
+[INFO] Technical support - Multi-level incident resolution
+[SUCCESS] Infrastructure optimization - Zero downtime achieved
+
+fernando@systems:~$ whoami --goals
+> Becoming the infrastructure architect of tomorrow
+> Bridging the gap between traditional IT and AI
+> Building systems that think and adapt
+
+fernando@systems:~$ echo $NEXT_LEVEL
+Learning: Kubernetes | Terraform | Advanced AI | Cloud Architecture
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌍 Connect with the Matrix
+
+<a href="https://linkedin.com/in/fernando-duran">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse"/>
+</a>
+<a href="mailto:nando.dev.duran@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Nando-Asir">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+![Visitor Count](https://profile-counter.glitch.me/Nando-Asir/count.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Status Message
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Currently+architecting+tomorrow's+infrastructure;Always+learning%2C+always+building;Let's+connect+and+create+something+amazing!" alt="Status" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+[![Nando's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nando-Asir&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=58A6FF&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+**🚀 "Code is poetry, infrastructure is art, and automation is magic" ✨**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
 </div>
