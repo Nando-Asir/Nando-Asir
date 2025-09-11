@@ -245,7 +245,7 @@ Learning: Kubernetes | Terraform | Advanced AI | Cloud Architecture
 
 ## 🌍 Connect with the Matrix
 
-<a href="https://linkedin.com/in/fernando-duran">
+<a href="https://linkedin.com/in/duran-fernando">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse"/>
 </a>
 <a href="mailto:nando.dev.duran@gmail.com">
